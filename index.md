@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog for my programming assignment
+PRG: Welcome to my blog for my programming assignment
 ---
 
